@@ -168,10 +168,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ##BEFORE :
+ ## BEFORE :
  ![bf](https://github.com/Prasannalakshmiganesan/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118610231/9c876428-11c8-4a17-88d9-9375ab5925e4)
 
- ##AFTER: 
+ ## AFTER: 
  ![af](https://github.com/Prasannalakshmiganesan/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118610231/5752107c-fa66-42c2-a1ca-9405b81cd0f7)
 
 ## Result :
